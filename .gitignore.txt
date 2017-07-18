@@ -1,2 +1,0 @@
-.ipynb_checkpoints/
-.ipynb_checkpoints/audit_data_quality-checkpoint.ipynb
